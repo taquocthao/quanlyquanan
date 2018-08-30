@@ -1,0 +1,32 @@
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll.config
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll.config
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll.config
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll.config
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DAO.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DAO\obj\Debug\QuanLyQuanCafe.DAO.pdb

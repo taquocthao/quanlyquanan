@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DTO\bin\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DTO\bin\Debug\QuanLyQuanCafe.DTO.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.DTO\obj\Debug\QuanLyQuanCafe.DTO.pdb

@@ -1,0 +1,40 @@
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+D:\COFFEE MANAGER\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+D:\COFFEE MANAGER\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.BUS.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.dll
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe.BUS\obj\Debug\QuanLyQuanCafe.BUS.pdb

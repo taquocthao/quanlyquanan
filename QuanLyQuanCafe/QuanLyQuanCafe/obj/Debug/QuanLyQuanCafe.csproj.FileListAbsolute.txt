@@ -1,0 +1,209 @@
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctTimKiemNhanVien.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\DELL\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucDon.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\COFFEE MANAGER\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+D:\COFFEE MANAGER\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucDon.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\COFFEE MANAGER Bak\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\COFFEE MANAGER Bak\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\COFFEE MANAGER\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctMonAn.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucDon.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+E:\MY TEAM'S PROJECT\PROJECT_1\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctMonAn.resources
+D:\COFFEE MANAGER\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctMonAn.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctMonAn.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucDon.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\USER\Desktop\Đồ án môn học\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Đồ án môn học\Quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucDon.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctLoaiThucPham.resources
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucPham.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctLoaiThucPham.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucDon.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucPham.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\USER\Google Drive\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Đồ án môn học\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThongTinThucPham.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctLoaiThucPham.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThongTinThucPham.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucPham.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.CustomsMessageBox.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmThanhToanHoaDon.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThongKeHoaDon.resources
+C:\Users\USER\Desktop\Đồ án 2\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe.config
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe.config
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Resources\HUONG_DAN_SU_DUNG.docx
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.exe
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\QuanLyQuanCafe.pdb
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.CustomsMessageBox.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmDangNhap.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.frmGiaoDienChinh.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmTaoTaiKhoan.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.frmThanhToanHoaDon.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctBan.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctGoiMon.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctHeThong.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhac.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctLoaiThucPham.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctNhanVien.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctKhuVuc.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThongKeHoaDon.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThongTinThucPham.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucAn.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucPham.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Form.uctThucUong.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe.licenses
